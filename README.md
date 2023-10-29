@@ -20,8 +20,7 @@ In your terminal, type the following:
 1. Run the .py files in their numerical order
 
 ## To-Do
-* Charlotte check
-* Repository metadata 
+* 
 
 ## Miscellaneous
 * Data retrieved from https://www.kaggle.com/datasets/rm1000/fortune-500-companies
