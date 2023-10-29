@@ -5,6 +5,7 @@ Creates SQL database from a .csv file
 import pandas as pd
 import connection_handler as ch
 
+# Add error handling
 df = pd.read_csv('fortune_500_companies.csv')
 
 try:
