@@ -1,0 +1,19 @@
+[tool.poetry]
+name = "fortune-500-database-load"
+version = "0.1.0"
+description = "Inserts data from a CSV into a database."
+authors = ["Timothy <timiancam@gmail.com>"]
+license = "MIT"
+readme = "README.md"
+packages = [{include = "fortune_500_database_load"}]
+
+[tool.poetry.dependencies]
+python = "^3.11"
+psycopg2-binary = "^2.9.6"
+pandas = "^2.0.3"
+sqlalchemy = "^2.0.20"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
