@@ -16,7 +16,7 @@ https://python-poetry.org/docs/#installation
 In your terminal, type the following:
 
 ```sh
-git clone https://github.com/timiancam/fortune_500_database_load
+git clone https://github.com/timiancam/fortune_500_database_load.git
 cd fortune_500_database_load
 poetry shell
 poetry install # Check that your terminal is in the correct virtual environment
