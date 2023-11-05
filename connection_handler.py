@@ -1,6 +1,5 @@
 """
 Handles connections to the postgres database 
-Creates fortune_500_table
 Creates global connection, cursor and engine variables
 Accessed by other modules
 """
